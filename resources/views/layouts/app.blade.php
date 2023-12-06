@@ -14,11 +14,13 @@
 
 <body class="bg-[#141b2b] min-h-screen text-white w-full">
     @include('layouts.nav')
-    <div class="fixed bottom-12 right-12">
+    <div class="fixed bottom-12 right-12 z-[999]">
         <a href="https://api.whatsapp.com/send?phone=6289502789608" target="_blank" rel="noopener noreferrer"
-            class="bg-green-500 text-white p-4 rounded-full flex items-center shadow hover:bg-green-600 transition duration-300">
-            <img src="/wa.png" alt="" class="w-6 h-6 object-cover me-2">
-            Jual Akun
+            class="bg-green-500 text-white p-4 rounded-full flex gap-2 items-center shadow text-sm hover:bg-green-600 transition duration-300">
+            <img src="/wa.png" alt="" class="w-7 h-7 object-cover me-2">
+            Ingin Jual Akun?
+            <br>
+            Hubungi Kami
         </a>
     </div>
 

@@ -469,10 +469,10 @@ class GamesData
                 Unduh dan mainkan sekarang!",
                 "nominal" => [
                     "60 Ruby" => 13500,
-                    "310 Amber" => 64000,
-                    "630 Amber" => 121000,
-                    "1300 Amber" => 243000,
-                    "3200 Amber" => 630000,
+                    "310 Ruby" => 64000,
+                    "630 Ruby" => 121000,
+                    "1300 Ruby" => 243000,
+                    "3200 Ruby" => 630000,
                 ],
             ],
         ];

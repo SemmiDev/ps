@@ -63,12 +63,13 @@
 <body class="bg-[#141b2b] min-h-screen text-white w-full">
     @include('layouts.nav')
     @include('layouts.carousel')
-
-    <div class="fixed bottom-12 right-12">
+    <div class="fixed bottom-12 right-12 z-[999]">
         <a href="https://api.whatsapp.com/send?phone=6289502789608" target="_blank" rel="noopener noreferrer"
-            class="bg-green-500 text-white p-4 rounded-full flex items-center shadow hover:bg-green-600 transition duration-300">
-            <img src="/wa.png" alt="" class="w-6 h-6 object-cover me-2">
-            Jual Akun
+            class="bg-green-500 text-white p-4 rounded-full flex gap-2 items-center shadow text-sm hover:bg-green-600 transition duration-300">
+            <img src="/wa.png" alt="" class="w-7 h-7 object-cover me-2">
+            Ingin Jual Akun?
+            <br>
+            Hubungi Kami
         </a>
     </div>
 
@@ -224,7 +225,7 @@
                     </a>
                     <p class="max-w-xl w-full leading-relaxed mt-5 text-justify">
                         PentaStore menjadi destinasi toko top up game dan jual beli akun yang dipilih para gamers untuk
-                        melakukan top up dan jual beli akun karena berbagai alasan penting. erdapat berbagai game yang
+                        melakukan top up dan jual beli akun karena berbagai alasan penting. Terdapat berbagai game yang
                         tersedia di PentaStore memungkinkan gamer untuk menemukan dan melakukan top up pada berbagai
                         jenis game.
                     </p>
