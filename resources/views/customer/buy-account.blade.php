@@ -6,6 +6,13 @@
             <h1 class="text-3xl font-semibold mt-4 mb-4">{{ $game['name'] }}</h1>
 
             <div class="gap-3 grid grid-cols-4">
+
+                @if (count($game['accounts']) == 0)
+                    <p class="p-4 text-sm">
+                        Tidak ada akun yang tersedia saat ini.
+                    </p>
+                @endif
+
                 @foreach ($game['accounts'] as $item)
                     <div onclick="chooseItem('{{ $item['spec'] }}~{{ $item['price'] }}~{{ $item['email'] }}~{{ $item['password'] }}')"
                         class="bg-gray-200 text-black flex flex-col justify-between w-full hover:bg-white hover:cursor-pointer rounded-xl shadow mb-2">

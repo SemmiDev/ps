@@ -290,6 +290,23 @@ class GamesData
                     ],
                 ]
             ],
+            [
+                "id" => 10,
+                "name"=> "Metal Slug",
+                'logo' => 'MSA_310 _Ruby.png',
+                'cover' => "metalslug-cover.png",
+                'desc'  => "Harga sudah termasuk PPN. Informasi tambahan, untuk transaksi menggunakan Telkomsel akan dikenakan biaya tambahan pajak.
+                Bayarlah pakai QRIS, GoPay, OVO, Bank Transfer, Indosat, Tri Indonesia, XL Axiata, Smartfren, DANA, Shopee Pay, LinkAja, Kredivo, Alfamart, Indomaret, Codacash, DOKU, dan kartu kredit.
+                Unduh dan mainkan sekarang!",
+                "nominal" => [
+                    "60 Ruby" => 13500,
+                    "310 Amber" => 64000,
+                    "630 Amber" => 121000,
+                    "1300 Amber" => 243000,
+                    "3200 Amber" => 630000,
+                ],
+                "accounts" => [],
+            ],
         ];
 
         return $games;

@@ -87,124 +87,124 @@
 
     <div class="mb-12 max-w-screen-xl grid grid-cols-5 gap-3 items-center justify-between mx-auto p-4">
         <div
-            class="w-60 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
+            class="w-[200px] bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
             <a href="{{route('topup.create', ['id' => 1])}}">
                 <img class="rounded-t-lg w-full object-fill h-64" src="/call-of-duty.jpg" alt="" />
             </a>
             <div class="p-5 text-[#141b2b]">
                 <a href="{{route('topup.create', ['id' => 1])}}">
-                    <h5 class="text-2xl text-center font-bold tracking-tight text-gray-900">Call of Duty
+                    <h5 class="text-lg text-center font-bold tracking-tight text-gray-900">Call of Duty
                         Mobile</h5>
                 </a>
             </div>
         </div>
         <div
-            class="w-60 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
+            class="w-[200px] bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
             <a href="{{route('topup.create', ['id' => 2])}}">
                 <img class="rounded-t-lg w-full object-fill h-64" src="/genshinimpact_tile.jpg" alt="" />
             </a>
             <div class="p-5 text-[#141b2b]">
                 <a href="{{route('topup.create', ['id' => 2])}}">
-                    <h5 class="text-2xl text-center  font-bold tracking-tight text-gray-900">Genshin
+                    <h5 class="text-lg text-center  font-bold tracking-tight text-gray-900">Genshin
                         Impact</h5>
                 </a>
             </div>
         </div>
         <div
-            class="w-60 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
+            class="w-[200px] bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
             <a href="{{route('topup.create', ['id' => 3])}}">
                 <img class="rounded-t-lg w-full object-fill h-64" src="/fc_mobile_tile.jpg" alt="" />
             </a>
             <div class="p-5 text-[#141b2b]">
                 <a href="{{route('topup.create', ['id' => 3])}}">
-                    <h5 class="text-2xl text-center  font-bold tracking-tight text-gray-900">FC Mobile
+                    <h5 class="text-lg text-center  font-bold tracking-tight text-gray-900">FC Mobile
                     </h5>
                 </a>
             </div>
         </div>
         <div
-            class="w-60 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
+            class="w-[200px] bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
             <a href="{{route('topup.create', ['id' => 4])}}">
                 <img class="rounded-t-lg w-full object-fill h-64" src="/ragnarok_tile.jpg" alt="" />
             </a>
             <div class="p-5 text-[#141b2b]">
                 <a href="{{route('topup.create', ['id' => 4])}}">
-                    <h5 class="text-2xl text-center  font-bold tracking-tight text-gray-900">Ragnarok
+                    <h5 class="text-lg text-center  font-bold tracking-tight text-gray-900">Ragnarok
                     </h5>
                 </a>
             </div>
         </div>
         <div
-            class="w-60 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
+            class="w-[200px] bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
                 <a href="{{route('topup.create', ['id' => 5])}}">
                 <img class="rounded-t-lg w-full object-fill h-64" src="/Clash-of-Clans-Codacash.jpg" alt="" />
             </a>
             <div class="p-5 text-[#141b2b]">
                     <a href="{{route('topup.create', ['id' => 5])}}">
-                    <h5 class="text-2xl text-center  font-bold tracking-tight text-gray-900">Clash of
+                    <h5 class="text-lg text-center  font-bold tracking-tight text-gray-900">Clash of
                         Clans</h5>
                 </a>
             </div>
         </div>
         <div
-            class="w-60 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
+            class="w-[200px] bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
             <a href="{{route('topup.create', ['id' => 6])}}">
                 <img class="rounded-t-lg w-full object-fill h-64" src="/ml.jpg" alt="" />
             </a>
             <div class="p-5 text-[#141b2b]">
                 <a href="{{route('topup.create', ['id' => 6])}}">
-                    <h5 class="text-2xl text-center  font-bold tracking-tight text-gray-900">Mobile
+                    <h5 class="text-lg text-center  font-bold tracking-tight text-gray-900">Mobile
                         Legend</h5>
                 </a>
             </div>
         </div>
 
         <div
-            class="w-60 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
+            class="w-[200px] bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
             <a href="{{route('topup.create', ['id' => 7])}}">
                 <img class="rounded-t-lg w-full object-fill h-64" src="/pubg.jpg" alt="" />
             </a>
             <div class="p-5 text-[#141b2b]">
                 <a href="{{route('topup.create', ['id' => 7])}}">
-                    <h5 class="text-2xl text-center  font-bold tracking-tight text-gray-900">PUBG</h5>
+                    <h5 class="text-lg text-center  font-bold tracking-tight text-gray-900">PUBG</h5>
                 </a>
             </div>
         </div>
 
         <div
-            class="w-60 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
+            class="w-[200px] bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
             <a href="{{route('topup.create', ['id' => 8])}}">
                 <img class="rounded-t-lg w-full object-fill h-64" src="/ff.jpg" alt="" />
             </a>
             <div class="p-5 text-[#141b2b]">
                 <a href="{{route('topup.create', ['id' => 8])}}">
-                    <h5 class="text-2xl text-center  font-bold tracking-tight text-gray-900">Free Fire
+                    <h5 class="text-lg text-center  font-bold tracking-tight text-gray-900">Free Fire
                     </h5>
                 </a>
             </div>
         </div>
 
         <div
-            class="w-60 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
+            class="w-[200px] bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
         <a href="{{route('topup.create', ['id' => 9])}}">
                 <img class="rounded-t-lg w-full object-fill h-64" src="/chimeraland.png" alt="" />
             </a>
             <div class="p-5 text-[#141b2b]">
                 <a href="{{route('topup.create', ['id' => 9])}}">
-                    <h5 class="text-2xl text-center  font-bold tracking-tight text-gray-900">Chimera Land
+                    <h5 class="text-lg text-center  font-bold tracking-tight text-gray-900">Chimera Land
                     </h5>
                 </a>
             </div>
         </div>
 
         <div
-        class="w-60 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
+        class="w-[200px] bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
     <a href="{{route('topup.create', ['id' => 10])}}">
             <img class="rounded-t-lg w-full object-fill h-64" src="/metal.jpg" alt="" />
         </a>
         <div class="p-5 text-[#141b2b]">
             <a href="{{route('topup.create', ['id' => 10])}}">
-                <h5 class="text-2xl text-center  font-bold tracking-tight text-gray-900">Metal Slug
+                <h5 class="text-lg text-center  font-bold tracking-tight text-gray-900">Metal Slug
                 </h5>
             </a>
         </div>
