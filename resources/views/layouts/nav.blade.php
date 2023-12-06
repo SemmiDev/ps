@@ -10,7 +10,7 @@
                 id="user-menu-button" aria-expanded="false" data-dropdown-toggle="user-dropdown"
                 data-dropdown-placement="bottom">
                 <span class="sr-only">User</span>
-                <img class="w-12 h-12 ring ring-[#8afdf7] rounded-full" src="https://ui-avatars.com/api/?name={{ Auth::user()->name }}&color=7F9CF5&background=EBF4FF"
+                <img class="w-12 h-12 ring ring-[#8afdf7] rounded-full" src="https://ui-avatars.com/api/?name={{ Auth::user()->name ?? 'PS' }}&color=7F9CF5&background=EBF4FF"
                     alt="User avatar" />
             </button>
 
