@@ -87,7 +87,7 @@
 
     <div class="mb-12 max-w-screen-xl grid grid-cols-5 gap-3 items-center justify-between mx-auto p-4">
         <div
-            class="w-[200px]  bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
+            class="w-60  bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
             <a href="{{route('buy-account.create', ['id' => 1])}}">
                 <img class="rounded-t-lg w-full object-fill h-64" src="/call-of-duty.jpg" alt="" />
             </a>
@@ -99,7 +99,7 @@
             </div>
         </div>
         <div
-            class="w-[200px]  bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
+            class="w-60  bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
             <a href="{{route('buy-account.create', ['id' => 2])}}">
                 <img class="rounded-t-lg w-full object-fill h-64" src="/genshinimpact_tile.jpg" alt="" />
             </a>
@@ -111,7 +111,7 @@
             </div>
         </div>
         <div
-            class="w-[200px]  bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
+            class="w-60  bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
             <a href="{{route('buy-account.create', ['id' => 3])}}">
                 <img class="rounded-t-lg w-full object-fill h-64" src="/fc_mobile_tile.jpg" alt="" />
             </a>
@@ -123,7 +123,7 @@
             </div>
         </div>
         <div
-            class="w-[200px]  bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
+            class="w-60  bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
             <a href="{{route('buy-account.create', ['id' => 4])}}">
                 <img class="rounded-t-lg w-full object-fill h-64" src="/ragnarok_tile.jpg" alt="" />
             </a>
@@ -135,7 +135,7 @@
             </div>
         </div>
         <div
-            class="w-[200px]  bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
+            class="w-60  bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
                 <a href="{{route('buy-account.create', ['id' => 5])}}">
                 <img class="rounded-t-lg w-full object-fill h-64" src="/Clash-of-Clans-Codacash.jpg" alt="" />
             </a>
@@ -147,7 +147,7 @@
             </div>
         </div>
         <div
-            class="w-[200px]  bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
+            class="w-60  bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
             <a href="{{route('buy-account.create', ['id' => 6])}}">
                 <img class="rounded-t-lg w-full object-fill h-64" src="/ml.jpg" alt="" />
             </a>
@@ -160,7 +160,7 @@
         </div>
 
         <div
-            class="w-[200px]  bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
+            class="w-60  bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
             <a href="{{route('buy-account.create', ['id' => 7])}}">
                 <img class="rounded-t-lg w-full object-fill h-64" src="/pubg.jpg" alt="" />
             </a>
@@ -172,7 +172,7 @@
         </div>
 
         <div
-            class="w-[200px]  bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
+            class="w-60  bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
             <a href="{{route('buy-account.create', ['id' => 8])}}">
                 <img class="rounded-t-lg w-full object-fill h-64" src="/ff.jpg" alt="" />
             </a>
@@ -185,7 +185,7 @@
         </div>
 
         <div
-            class="w-[200px]  bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
+            class="w-60  bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
         <a href="{{route('buy-account.create', ['id' => 9])}}">
                 <img class="rounded-t-lg w-full object-fill h-64" src="/chimeraland.png" alt="" />
             </a>
@@ -198,7 +198,7 @@
         </div>
 
         <div
-            class="w-[200px]  bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
+            class="w-60  bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-105 transition duration-150">
         <a href="{{route('buy-account.create', ['id' => 10])}}">
                 <img class="rounded-t-lg w-full object-fill h-64" src="/metal.jpg" alt="" />
             </a>
