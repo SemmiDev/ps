@@ -76,34 +76,9 @@
                         <img src="/gopay.png" alt="" class="w-32 h-8 object-scale-down">
                         <span class="text-lg font-semibold mt-4 harga-display"></span>
                     </div>
-                    <div onclick="choosePaymentMethod('linkaja')"
-                        class="border flex justify-between items-center bg-white text-black border-gray-200 rounded-lg p-4 hover:border-green-500 transition duration-300 cursor-pointer">
-
-                        <img src="/qris.png" alt="" class="w-32 h-8 object-scale-down">
-                        <span class="text-lg font-semibold mt-4 harga-display"></span>
-                    </div>
                     <div onclick="choosePaymentMethod('shopeepay')"
                         class="border flex justify-between items-center bg-white text-black border-gray-200 rounded-lg p-4 hover:border-green-500 transition duration-300 cursor-pointer">
-
                         <img src="/shopeepay.png" alt="" class="w-32 h-8 object-scale-down">
-                        <span class="text-lg font-semibold mt-4 harga-display"></span>
-                    </div>
-                    <div onclick="choosePaymentMethod('indomaret')"
-                        class="border flex justify-between items-center bg-white text-black border-gray-200 rounded-lg p-4 hover:border-green-500 transition duration-300 cursor-pointer">
-
-                        <img src="/indomaret.png" alt="" class="w-32 h-8 object-scale-down">
-                        <span class="text-lg font-semibold mt-4 harga-display"></span>
-                    </div>
-                    <div onclick="choosePaymentMethod('alfamart')"
-                        class="border flex justify-between items-center bg-white text-black border-gray-200 rounded-lg p-4 hover:border-green-500 transition duration-300 cursor-pointer">
-
-                        <img src="/alfamart.png" alt="" class="w-32 h-8 object-scale-down">
-                        <span class="text-lg font-semibold mt-4 harga-display"></span>
-                    </div>
-                    <div onclick="choosePaymentMethod('doku')"
-                        class="border flex justify-between items-center bg-white text-black border-gray-200 rounded-lg p-4 hover:border-green-500 transition duration-300 cursor-pointer">
-
-                        <img src="/doku.png" alt="" class="w-32 h-8 object-scale-down">
                         <span class="text-lg font-semibold mt-4 harga-display"></span>
                     </div>
                 </div>

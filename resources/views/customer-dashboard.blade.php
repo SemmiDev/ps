@@ -177,7 +177,7 @@
             </div>
             <hr class="my-6 border-gray-200 sm:mx-auto lg:my-8" />
 
-            <span class="block text-center text-sm text-[#8afdf7]">© 2021 Penta Store. All rights reserved.</span>
+            <span class="block text-center text-sm text-[#8afdf7]">© 2023 Penta Store. All rights reserved.</span>
         </div>
     </footer>
 

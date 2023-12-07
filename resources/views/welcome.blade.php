@@ -16,46 +16,7 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 
 
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            const carousel = document.querySelector("[data-carousel='static']");
-            const carouselItems = document.querySelectorAll("[data-carousel-item]");
-            const nextButton = document.querySelector("[data-carousel-next]");
-            const prevButton = document.querySelector("[data-carousel-prev]");
 
-            let currentSlide = 0;
-
-            const showSlide = (index) => {
-                carouselItems.forEach((item) => item.classList.add("hidden"));
-                carouselItems[index].classList.remove("hidden");
-            };
-
-            const nextSlide = () => {
-                currentSlide = (currentSlide + 1) % carouselItems.length;
-                showSlide(currentSlide);
-            };
-
-            const prevSlide = () => {
-                currentSlide = (currentSlide - 1 + carouselItems.length) % carouselItems.length;
-                showSlide(currentSlide);
-            };
-
-            nextButton.addEventListener("click", nextSlide);
-            prevButton.addEventListener("click", prevSlide);
-
-            const intervalId = setInterval(nextSlide, 2000);
-
-            carousel.addEventListener("mouseenter", () => clearInterval(intervalId));
-
-            carousel.addEventListener("mouseleave", () => {
-                clearInterval(intervalId);
-                intervalId = setInterval(nextSlide, 2000);
-            });
-
-            // Tambahkan code untuk menampilkan slide pertama saat halaman dimuat
-            showSlide(currentSlide);
-        });
-    </script>
 
 
 </head>
@@ -283,7 +244,7 @@
             </div>
             <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
 
-            <span class="block text-center text-sm text-[#8afdf7]">© 2021 Penta Store. All rights reserved.</span>
+            <span class="block text-center text-sm text-[#8afdf7]">© 2023 Penta Store. All rights reserved.</span>
         </div>
     </footer>
 
